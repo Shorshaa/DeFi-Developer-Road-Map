@@ -18,13 +18,14 @@
 - [Gujarati](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_guj.md)
 - [Korean](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_ko.md)
 - [French](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_fr.md)
+- [Espagnol](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_es.md)
  
 </details>
 
 
 ## Roadmap
 
-![Roadmap](../DeFiRoadMapNewSVG.svg)
+![Roadmap](./DeFiRoadmapnew_fr.svg)
 
 # Navigation
 
@@ -33,8 +34,8 @@
 
 |       Topic      | Instant Link                                                                                                              |
 |:----------------:|---------------------------------------------------------------------------------------------------------------------------|
-| Bases            | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map#basics)                                                   |
-| dApps            | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map#dapps)                                                    |
+| Bases            | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_fr.md#basics)                                                   |
+| dApps            | [Explorer](#dapps)                                                    |
 | Frameworks       | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks)                                               |
 | zk-snarks        | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map#zk-snarks)                                                |
 | Autres Lectures  | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map#further-readings)                                         |
