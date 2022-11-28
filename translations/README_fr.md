@@ -38,16 +38,16 @@
 | dApps            | [Explorer](#dapps)                                                    |
 | Frameworks       | [Explorer](#frameworks)                                               |
 | zk-snarks        | [Explorer](#zk-snarks)                                                |
-| Autres Lectures  | [Explorer](#further-readings)                                         |
-| Securité         | [Explorer](#security--safety)                                         |
+| Autres Lectures  | [Explorer](#lectures-compl%C3%A9mentaires)                            |
+| Securité         | [Explorer](#s%C3%A9curit%C3%A9-et-protection)                         |
 | DeFi             | [Explorer](#defi)                                                     |
 | ENS              | [Explorer](#ethereum-name-service)                                    |
 | NFT              | [Explorer](#non-fungible-token-nft)                                   |
-| Stable Coins     | [Explorer](#stable-coins)                                             |
+| Stable Coins     | [Explorer](#stablecoins)                                              |
 | Infos Générales  | [Explorer](#ethereum-tools)                                           |
 | Side Chains      | [Explorer](#side-chains)                                              |
 | MEV              | [Explorer](#mev---maximal-extractable-value--miner-extractable-value) |
-| Outils           | [Explorer](#tools-collection)                                         |
+| Outils           | [Explorer](#outils-ethereum)                                          |
 | ETH 2.0          | [Explorer](#ethereum-20)                                              |
 | Front End        | [Explorer](#front-end)                                                |
 | Project Manag.   | [Explorer](#project-management)                                       |
