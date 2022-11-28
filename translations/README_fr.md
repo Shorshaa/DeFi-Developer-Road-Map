@@ -34,23 +34,23 @@
 
 |       Topic      | Instant Link                                                                                                              |
 |:----------------:|---------------------------------------------------------------------------------------------------------------------------|
-| Bases            | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_fr.md#basics)                                                   |
+| Bases            | [Explorer](#basics)                                                   |
 | dApps            | [Explorer](#dapps)                                                    |
-| Frameworks       | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks)                                               |
-| zk-snarks        | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map#zk-snarks)                                                |
-| Autres Lectures  | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map#further-readings)                                         |
-| Securité         | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map#security--safety)                                         |
-| DeFi             | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map#defi)                                                     |
-| ENS              | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-name-service)                                    |
-| NFT              | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map#non-fungible-token-nft)                                   |
-| Stable Coins     | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map#stable-coins)                                             |
-| Infos Générales  | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-tools)                                           |
-| Side Chains      | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map#side-chains)                                              |
-| MEV              | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map#mev---maximal-extractable-value--miner-extractable-value) |
-| Outils           | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tools-collection)                                         |
-| ETH 2.0          | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20)                                              |
-| Front End        | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end)                                                |
-| Project Manag.   | [Explorer](https://github.com/OffcierCia/DeFi-Developer-Road-Map#project-management)                                       |
+| Frameworks       | [Explorer](#frameworks)                                               |
+| zk-snarks        | [Explorer](#zk-snarks)                                                |
+| Autres Lectures  | [Explorer](#further-readings)                                         |
+| Securité         | [Explorer](#security--safety)                                         |
+| DeFi             | [Explorer](#defi)                                                     |
+| ENS              | [Explorer](#ethereum-name-service)                                    |
+| NFT              | [Explorer](#non-fungible-token-nft)                                   |
+| Stable Coins     | [Explorer](#stable-coins)                                             |
+| Infos Générales  | [Explorer](#ethereum-tools)                                           |
+| Side Chains      | [Explorer](#side-chains)                                              |
+| MEV              | [Explorer](#mev---maximal-extractable-value--miner-extractable-value) |
+| Outils           | [Explorer](#tools-collection)                                         |
+| ETH 2.0          | [Explorer](#ethereum-20)                                              |
+| Front End        | [Explorer](#front-end)                                                |
+| Project Manag.   | [Explorer](#project-management)                                       |
 
 
 **| Notes Spéciales de l'Auteur:**
